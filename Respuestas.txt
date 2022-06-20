@@ -1,0 +1,9 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+    El archivo tp2_1_2.c fue creado en una rama distinta a la que estamos parados ahora, por ello es normal que no se pueda verlo. Si hacemos un branch hacia Opcion_2 devemos verlo sin problemas.
+
+¿Qué diferencias nota luego de subir el Archico Respuestas.txt?
+    La rama de Opacion_2 quedo aislada de los cambios, es decir que la rama pricipal siguio su camino sin importar lo que ocurrio en la otra branch.
+
+¿Qué nota luego de combinar ambos repositorios?
+    Luego de convinar ambos repositorios, con gitk –all, graficamente se nota que la rama en la que estamos ahora tiene archivos tanto de la rama principal como tambien de la rama que convinamos (en este caso Opcion_2)
+    
